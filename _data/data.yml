@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Miaohui Shi
     tagline: Master Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shimiaohui.cn@gmail.com
